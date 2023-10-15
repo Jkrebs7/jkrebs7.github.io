@@ -35,12 +35,12 @@ nav a {
   text-decoration: none;
 }
 
-/* Right-aligned link */
+
 nav a.right {
   float: right;
 }
 
-/* Column container */
+
 row {  
   display: -ms-flexbox; /* IE10 */
   display: flex;
@@ -48,8 +48,7 @@ row {
   flex-wrap: wrap;
 }
 
-/* Create two unequal columns that sits next to each other */
-/* Sidebar/left column */
+
 aside {
   -ms-flex: 30%; /* IE10 */
   flex: 30%;
@@ -57,7 +56,7 @@ aside {
   padding: 20px;
 }
 
-/* Main column */
+
 main {   
   -ms-flex: 70%; /* IE10 */
   flex: 70%;
