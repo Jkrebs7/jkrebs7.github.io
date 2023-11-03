@@ -96,3 +96,8 @@ td, th {
 tr:nth-child(odd) {
   background-color: #dddddd;
 }
+
+nav a:hover {
+  background-color: #dddddd;
+  color: #000000;
+}
