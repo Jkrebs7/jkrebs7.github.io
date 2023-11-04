@@ -101,3 +101,23 @@ nav a:hover {
   background-color: #dddddd;
   color: #000000;
 }
+
+.container {
+  border-radius: 5px;
+  background-color: #dddddd;
+  padding: 17px;
+}
+
+input[type=submit] {
+  cursor: pointer;
+  padding: 10px 10px;
+  background-color: #ffffff;
+  color: #000000;
+  border: none;
+  border-radius: 7px;
+}
+
+input[type=submit]:hover {
+  background-color: #000000;
+  color: #ffffff;
+}
